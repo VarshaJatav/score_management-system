@@ -19,5 +19,8 @@
         "laravel-echo": "^2.2.0",
         "pusher-js": "^8.4.0",
         "vue": "^3.5.19"
+    },
+    "engines": {
+      "node": "20.19.x"
     }
 }
