@@ -59,7 +59,7 @@ A **Laravel-based backend API** for managing teams, players, matches, lineups, s
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/NeerajBisht-git/score_management_system.git
+git clone https://github.com/NeerajBisht-git/score_management-system.git
 cd score-management-system
 ```
 
